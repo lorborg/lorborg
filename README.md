@@ -1,6 +1,6 @@
 ## Hello, my name is Lorrane 👋
 
-💻 I'm currently studying Computer Science at "Universidade Federal do ABC (UFABC)".
+💻 I'm currently studying Computer Science at Universidade Federal do ABC (UFABC).
 
 <div align="center">
   <a href="https://github.com/lorborg">
